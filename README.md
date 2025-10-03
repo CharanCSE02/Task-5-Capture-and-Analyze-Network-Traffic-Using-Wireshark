@@ -27,6 +27,8 @@ It means every domain(or)website have some ip address.
 
 example : Google is 8.8.8.8
 
+<img width="1580" height="615" alt="HTTP Traffic" src="https://github.com/CharanCSE02/Task-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark/blob/main/Screenshot%202025-10-03%20214855.png"/>
+
 # HTTP
 
 The HTTP is used for HTTP communication is based on requests and responses. A client sends an HTTP request to the server, which processes the request and returns an HTTP response. This interaction is stateless, meaning the server does not retain any session data between requests. However, cookies can be used to add state to some client-server interactions.
@@ -35,6 +37,8 @@ It means user interaction to server.
 
 example : http://example.com
 
+<img width="1580" height="615" alt="HTTP Traffic" src="https://github.com/CharanCSE02/Task-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark/blob/main/Screenshot%202025-10-03%20214309.png"/>
+
 # TCP
 
 The TCP is used for transport protocol.The data is transfer using this protocol.
@@ -42,5 +46,7 @@ The TCP is used for transport protocol.The data is transfer using this protocol.
 Every data will transfer in UDP and TCP protocol only.The data will transfer any protocol between o to 65535 numbers.
 
 example : http and https
+
+<img width="1580" height="615" alt="HTTP Traffic" src="https://github.com/CharanCSE02/Task-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark/blob/main/Screenshot%202025-10-03%20214405.png"/>
 
 
